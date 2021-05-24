@@ -2,6 +2,7 @@
 automatically refreshes a number of times you want it to 
 
 *Prerequisites*
+
 pyautogui library
 
 <pip install pyautogui>
